@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		186043CE1FB058E700DF6C86 /* WJPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 186043CD1FB058E700DF6C86 /* WJPickView.m */; };
 		186043E21FB1D85D00DF6C86 /* CustomPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 186043E11FB1D85B00DF6C86 /* CustomPickView.m */; };
+		189397321FB5DCAD008A359C /* co.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189397311FB5DCAD008A359C /* co.jpg */; };
 		1898588B1FAD9AD00083BF89 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1898588A1FAD9AD00083BF89 /* UIView+Extension.m */; };
 		189858A71FAD9B130083BF89 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1898588D1FAD9B130083BF89 /* Info.plist */; };
 		189858A81FAD9B130083BF89 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 1898588F1FAD9B130083BF89 /* MASCompositeConstraint.m */; };
@@ -53,6 +54,7 @@
 		186043CD1FB058E700DF6C86 /* WJPickView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJPickView.m; sourceTree = "<group>"; };
 		186043E01FB1D85B00DF6C86 /* CustomPickView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomPickView.h; sourceTree = "<group>"; };
 		186043E11FB1D85B00DF6C86 /* CustomPickView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomPickView.m; sourceTree = "<group>"; };
+		189397311FB5DCAD008A359C /* co.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = co.jpg; sourceTree = "<group>"; };
 		189858891FAD9AD00083BF89 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		1898588A1FAD9AD00083BF89 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 		1898588D1FAD9B130083BF89 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 		18B94C8F1FAD944F001DA6A9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				189397311FB5DCAD008A359C /* co.jpg */,
 				18B94C901FAD944F001DA6A9 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -343,6 +346,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				189397321FB5DCAD008A359C /* co.jpg in Resources */,
 				189858A71FAD9B130083BF89 /* Info.plist in Resources */,
 				18B94C9F1FAD944F001DA6A9 /* LaunchScreen.storyboard in Resources */,
 				18B94C9C1FAD944F001DA6A9 /* Assets.xcassets in Resources */,
