@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSLog(@"git test 喜欢的话给个star！！！！");
+    NSLog(@"-----喜欢的话给个star！！！！-------");
     // Override point for customization after application launch.
     return YES;
 }
