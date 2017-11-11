@@ -18,7 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     NSLog(@"-----喜欢的话给个star-------2017---11---11");
-    NSLog(@"----- how to use it---------------qq:997408921");
+    NSLog(@"----- how to use it---------qq:997408921");
+    NSLog(@"------这是test的操作----------------------");
     // Override point for customization after application launch.
     return YES;
 }
